@@ -12,7 +12,7 @@ using UnityEngine.SceneManagement;
 public class Menu : MonoBehaviour {
     public void Authenticate()
     {
-        // Sign in / out
+        // Sign in / out !
     }
 	void Start () {
 		
